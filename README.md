@@ -1,5 +1,5 @@
 # erasmus-sds
-Application for erasmus students to fill out their learning agreement with hosting university's courses. We will use C# and HTML/CSS and Javascript. We will also have a MSSQL database.
+Application for erasmus students to fill out their learning agreement with hosting university's courses. We will use C# .net core and HTML/CSS. We will also have a SQLite database.
 
 ## Roles and Responsibilities
 Describe the role and responsibilities of each member of the team here.
