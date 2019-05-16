@@ -17,7 +17,17 @@ Dias Antayev and Tomas Taborda (Development Team) are responsible for:
 Communication through WhatsApp, as well as a meeting once a week at the university, during a convenient time for all team members.
 
 ## Instalation manual
-Instructions for installing our system.
+In order to run our system, you need to have .net core 2.2 installed on your computer. If you dont already have it in your machine, it can be found in this link: https://dotnet.microsoft.com/download/dotnet-core/2.2
+
+After this is instaled, you can download the zip file found in our master repository, and then unzip it.
+
+When the file is unzipped, all you have to do is run the project! This can be done in two different ways:
+
+  - If you have Visual Studio 2019 installed in your computer, you can simply open the "SDSErasmusPlatform.sln" file, and then run the "LearningAgreementServer project through Visual Studio.
+  - You can also use a terminal/command line to run the project! In order to do this, you need only to move to the directory of the project (SDSErasmusPlatform/LearningAgreementServer/) and execute the command "dotnet run". If everything went according to plan, the server will then be up and running, and you can access it using the url "https://localhost:5000/" or "https://localhost:5001/".
+  
+Then, you can begin the creation of you learning agreement using our intuitive form.
+Good luck in your studies!!!
 
 ## Work done so far
 
