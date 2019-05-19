@@ -5,12 +5,19 @@ Application that allows erasmus students to easily fill out their learning agree
 Describe the role and responsibilities of each member of the team here.
 
 Iva Bacani (Product Owner) is responsible for:
-
+ - Creating and defining Product Backlog items
+ - Ordering the Product Backlog items
+ - Explaining the Product Backlog items to the rest of the team
 
 Hakan Duran (Scrum Master/Development team) is responsible for:
-
+ - Schedule the Scrum meetings
+ - Helping the team understand the Scrum framework, and what it entails
+ - Provide support to the Development team with the creation of increments of "Done"
 
 Dias Antayev and Tomas Taborda (Development Team) are responsible for:
+ - Provide a potencially releasable Increment of "Done" at the end of the Sprint
+ - Implementing the functionalities defined in the Sprint Backlog
+ - Testing the created product
 
 
 ## Communication strategies
@@ -29,5 +36,6 @@ When the file is unzipped, all you have to do is run the project! This can be do
 Then, you can begin the creation of your learning agreement using our intuitive form.
 Good luck in your studies!!!
 
-## Work done so far
+## Development Work done so far
+Below will be a list of the software functionalities, and which team member worked in their development.
 
