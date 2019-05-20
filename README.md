@@ -42,14 +42,12 @@ Below will be a list of the software functionalities, divided by team member wor
 Dias Antayev:
  - Creation of the html version of the learning agreement layout.
 
-
 Hakan Duran:
  - Creation of the design of the Application.
 
-
 Tomás Taborda:
- - Creating the database with a table for the courses and another for the Faculties;
+ - Creating the database with a table for Courses and another for Faculties;
  - Filling the database with Courses and Faculties of Politechnika Poznanska;
  - Creating the base MVC structure;
- - Creation of the several views and forms used to receive the information of the user (as well as the baskets used to select the courses) view;
+ - Creation of the several views and forms used to receive the information of the user (as well as the baskets and mechanisms used to select the courses for the learning agreement);
  - Integration of the html version of the learning agreement layout (filling the fields with the inputs provided by the user).
