@@ -37,5 +37,17 @@ Then, you can begin the creation of your learning agreement using our intuitive 
 Good luck in your studies!!!
 
 ## Development Work done so far
-Below will be a list of the software functionalities, and which team member worked in their development.
+Below will be a list of the software functionalities, divided by team member worked in their development.
 
+Dias Antayev:
+ - Creation of the html version of the learning agreement layout.
+
+Hakan Duran:
+ - Creation of the design of the forms used to input the information of the user.
+
+Tomás Taborda:
+ - Creating the database;
+ - Filling the database with Courses and Faculties of Politechnika Poznanska;
+ - Creating the base MVC structure;
+ - Creation of the several views and forms used to receive the information of the user;
+ - Integration of the html version of the learning agreement layout (filling the fields with the inputs provided by the user).
