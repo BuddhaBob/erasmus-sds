@@ -31,9 +31,9 @@ After this is instaled, you can download the zip file found in our master reposi
 When the file is unzipped, all you have to do is run the project! This can be done in two different ways:
 
   - If you have Visual Studio 2019 installed in your computer, you can simply open the "SDSErasmusPlatform.sln" file, and then run the "LearningAgreementServer project through Visual Studio.
-  - You can also use a terminal/command line to run the project! In order to do this, you need only to move to the directory of the project (SDSErasmusPlatform/LearningAgreementServer/) and execute the command "dotnet run". If everything went according to plan, the server will then be up and running, and you can access it using the url "https://localhost:5000/" or "https://localhost:5001/". The application has been tested to be compatible with Google Chrome.
+  - You can also use a terminal/command line to run the project! In order to do this, you need only to move to the directory of the project (SDSErasmusPlatform/LearningAgreementServer/) and execute the command "dotnet run". If everything went according to plan, the server will then be up and running, and you can access it using the url "https://localhost:5000/" or "https://localhost:5001/". The application has been tested to be compatible with Google Chrome (Version 74.0.3729.169) and Mozilla Firefox (Version 67.0). It may, however, be functional other versions of these browsers, or even in completely different browsers.
   
-Then, you can begin the creation of your learning agreement using our intuitive form.
+After this, you can begin the creation of your learning agreement using our intuitive form.
 Good luck in your studies!!!
 
 ## Development Work done so far
