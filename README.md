@@ -53,3 +53,4 @@ Tomás Taborda:
  - Creating the base MVC structure;
  - Creation of the several views and forms used to receive the information of the user (as well as the baskets and mechanisms used to select the courses for the learning agreement), both for incoming and outgoing students;
  - Integration of the html version of the learning agreement layout (filling the fields with the inputs provided by the user).
+ - Creation of the "How to use" view.
