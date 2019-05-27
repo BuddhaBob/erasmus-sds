@@ -31,7 +31,7 @@ After this is instaled, you can download the zip file found in our master reposi
 When the file is unzipped, all you have to do is run the project! This can be done in two different ways:
 
   - If you have Visual Studio 2019 installed in your computer, you can simply open the "SDSErasmusPlatform.sln" file, and then run the "LearningAgreementServer project through Visual Studio.
-  - You can also use a terminal/command line to run the project! In order to do this, you need only to move to the directory of the project (SDSErasmusPlatform/LearningAgreementServer/) and execute the command "dotnet run". If everything went according to plan, the server will then be up and running, and you can access it using the url "https://localhost:5000/" or "https://localhost:5001/".
+  - You can also use a terminal/command line to run the project! In order to do this, you need only to move to the directory of the project (SDSErasmusPlatform/LearningAgreementServer/) and execute the command "dotnet run". If everything went according to plan, the server will then be up and running, and you can access it using the url "https://localhost:5000/" or "https://localhost:5001/". The application has been tested to be compatible with Google Chrome.
   
 Then, you can begin the creation of your learning agreement using our intuitive form.
 Good luck in your studies!!!
@@ -49,5 +49,5 @@ Tomás Taborda:
  - Creating the database with a table for Courses and another for Faculties;
  - Filling the database with Courses and Faculties of Politechnika Poznanska;
  - Creating the base MVC structure;
- - Creation of the several views and forms used to receive the information of the user (as well as the baskets and mechanisms used to select the courses for the learning agreement);
+ - Creation of the several views and forms used to receive the information of the user (as well as the baskets and mechanisms used to select the courses for the learning agreement), both for incoming and outgoing students;
  - Integration of the html version of the learning agreement layout (filling the fields with the inputs provided by the user).
