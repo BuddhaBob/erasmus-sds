@@ -56,3 +56,4 @@ Tomás Taborda:
  - Creation of the "How to use" view and controller;
  - Creation of the Comment-related views and controllers ("CourseList" and "Comments");
  - General testing of the application and its functionalities;
+ - Added views and controllers allowing saving and loading of filled learning agreements to database, using a seed-based system. 
