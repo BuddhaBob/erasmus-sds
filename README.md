@@ -39,7 +39,7 @@ After this, you can begin the creation of your learning agreement using our intu
 Good luck in your studies!!!
 
 ## Development Work done so far
-Below will be a list of the software functionalities, divided by team member worked in their development.
+Below will be a list of the software functionalities, divided by team members that worked in their development.
 
 Dias Antayev:
  - Creation of the html version of the learning agreement layout.
